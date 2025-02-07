@@ -88,6 +88,10 @@ img {
     margin-bottom: 20px;
 }
 
+.hero .hero-buttons i {
+    margin-right: 5px;
+}
+
 /* Video */
 .video {
     padding: 10px 0 40px;
